@@ -1,3 +1,4 @@
+reuire_relative
 require 'bundler/setup'
 Bundler.require
 
